@@ -26,7 +26,7 @@ server.post('/auth/register', (req, res) => {
 
   if (isAuthenticated({ username, password }) === true) {
     const status = 401;
-    const message = 'Username and Password already exist';
+    const message = 'Username already exist';
     res.status(status).json({ status, message });
     return;
   }
@@ -54,6 +54,8 @@ server.post('/auth/register', (req, res) => {
         const message = err;
         res.status(status).json({ status, message });
         return;
+      } else {
+        res.status(200).json('sucess register');
       }
     });
   });
