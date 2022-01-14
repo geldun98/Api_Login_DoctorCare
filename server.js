@@ -1,9 +1,7 @@
 const fs = require('fs');
 const bodyParser = require('body-parser');
 const jsonServer = require('json-server');
-const jwt = require('jsonwebtoken');
 const port = process.env.PORT || 3000;
-
 const server = jsonServer.create();
 const router = jsonServer.router('./database.json');
 const userdb = JSON.parse(fs.readFileSync('./users.json', 'UTF-8'));
@@ -12,26 +10,12 @@ server.use(bodyParser.urlencoded({ extended: true }));
 server.use(bodyParser.json());
 server.use(jsonServer.defaults());
 
-const SECRET_KEY = '123456789';
-
-const expiresIn = '1h';
-
-// Create a token from a payload
-function createToken(payload) {
-  return jwt.sign(payload, SECRET_KEY, { expiresIn });
-}
-
-// Verify the token
-function verifyToken(token) {
-  return jwt.verify(token, SECRET_KEY, (err, decode) => (decode !== undefined ? decode : err));
-}
-
 // Check if the user exists in database
 function isAuthenticated({ username, password }) {
   return userdb.users.findIndex((user) => user.username === username && user.password === password) !== -1;
 }
 function getData(username) {
-  return userdb.users.filter((user) => user.username === username);
+  return userdb.users.find((user) => user.username === username);
 }
 
 // Register New User
@@ -73,12 +57,6 @@ server.post('/auth/register', (req, res) => {
       }
     });
   });
-
-  // Create token for new user
-  // const access_token = createToken({ username, password });
-  // console.log('Access Token:' + access_token);
-  // res.status(200).json({ access_token });
-  // res.status(200).json('Le Viet Dung');
 });
 
 // Login to one of the users from ./users.json
@@ -92,12 +70,8 @@ server.post('/auth/login', (req, res) => {
     res.status(status).json({ status, message });
     return;
   }
-  // const access_token = createToken({ username, password });
-  // console.log('Access Token:' + access_token);
-  // res.status(200).json({ access_token });
-  const data = getData(username);
 
-  res.status(200).json({ data });
+  res.status(200).json({ user: getData(username) });
 });
 
 server.use(router);
