@@ -2,6 +2,7 @@ const fs = require('fs');
 const bodyParser = require('body-parser');
 const jsonServer = require('json-server');
 const jwt = require('jsonwebtoken');
+const port = process.env.PORT || 3000;
 
 const server = jsonServer.create();
 const router = jsonServer.router('./database.json');
@@ -100,7 +101,4 @@ server.post('/auth/login', (req, res) => {
 });
 
 server.use(router);
-
-server.listen(8000, () => {
-  console.log('Run Auth API Server');
-});
+server.listen(port);
