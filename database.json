@@ -11,50 +11,116 @@
       "id": 1
     },
     {
-      "name": "Nguyễn Quang",
-      "position": "PGS.TS",
-      "major": "TT Nam học",
+      "name": "Lê Phong",
+      "position": "TS",
+      "major": "Nội Tiết",
       "work": "Bệnh viện Hữu Nghị Việt Đức",
-      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/psg-nguyen-quang-bv-viet-duc_e54adbb8_6d30_40fd_98dd_7abc913665f7.jpg",
-      "experience": "5",
-      "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/bs_6ea56145_10e3_4075_86d5_754430729407.png",
+      "experience": "30",
+      "detail": "30 năm kinh nghiệm trong lĩnh vực các bệnh nội tiết: <br>- Đái tháo đường và các biến chứng đái tháo đường <br>- Các bệnh lý tuyến giáp (cường giáp, suy giáp, ung thư giáp <br>- Các bệnh lý suy tuyến thượng thận, cách bệnh lý tuyến yên <br>- Mãn dục nam, mãn kinh ở nữ <br>- Suy giảm tình dục ở cả nam và nữ",
       "id": 2
     },
     {
-      "name": "Định Ngọc Sơn",
-      "position": "PGS.TS",
-      "major": "Phẫu Thuật Cột sống",
-      "work": "Bệnh viện Hữu Nghị Việt Đức",
-      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/dinh-ngoc-son-viet-duc_7585710f_4f4e_4d6e_aeaf_42dd1158375a.jpg",
-      "experience": "5",
-      "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "name": "Nguyễn Sỹ Đức",
+      "position": "Ths",
+      "major": "Nhi",
+      "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/12345_575ac987_c546_45df_9feb_b5a740a9e9b2.jpg",
+      "experience": "10",
+      "detail": "Gần 10 năm kinh nghiệm khám và điều trị bệnh lí Nhi Khoa.",
       "id": 3
     },
     {
-      "name": "Lê Phong",
-      "position": "TS",
-      "major": "Nội tiết",
-      "work": "Bệnh viện Hữu Nghị Việt Đức",
-      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/bs_6ea56145_10e3_4075_86d5_754430729407.png",
-      "experience": "4",
-      "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "name": "Nguyễn Trọng Nghĩa",
+      "position": "BSCKI",
+      "major": "Mắt",
+      "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_4c819e0b_529f_4b7e_ae1d_f8a02a047294.png",
+      "experience": "30",
+      "detail": "30 năm kinh nghiệm thăm khám và điều trị chuyên khoa Mắt",
       "id": 4
     },
     {
-      "name": "Nguyễn Sỹ Đức",
-      "position": "TS",
-      "major": "Nội tiết",
+      "name": "Nguyễn Trung Trinh",
+      "position": "BSCKI",
+      "major": "Nhi",
       "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
-      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/12345_575ac987_c546_45df_9feb_b5a740a9e9b2.jpg",
-      "experience": "4",
-      "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_99927c4b_2c70_4e6f_8048_56e4a91f8bee.png",
+      "experience": "40",
+      "detail": "Hơn 40 năm kinh nghiệm khám và điều trị các bệnh lí Nhi khoa",
       "id": 5
     },
     {
-      "username": "levietdung",
-      "password": "123",
+      "name": "Nguyễn Thị Diệu Hồng",
+      "position": "ThS",
+      "major": "Hô Hấp",
+      "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_08c08a61_9e16_4967_9f35_b6feac20dab2.png",
+      "experience": "10",
+      "detail": "Khám và điều trị các bệnh lý nội khoa đường hô hấp trên và dưới <br>Chẩn đoán và điều trị bệnh lý đường hô hấp dưới: Viêm phổi, ung thư phổi Bệnh phổi tắc nghẽn mạn tính, hen phế quản, lao phổi màng phổi, ho kéo dài",
       "id": 6
+    },
+    {
+      "name": "Trần Phương Thảo",
+      "position": "BS",
+      "major": "Nội Tổng Hợp",
+      "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_8814e1ed_800e_416b_b14d_f1a64dc1b7c5.png",
+      "experience": "5",
+      "detail": "Khám và điều trị bệnh lý Nội khoa <br>Khám , tư vấn về điều trị, chăm sóc vết thương <br>Tư vấn về tiêm chủng <br>Tư vấn về điều trị F0 tại nhà",
+      "id": 7
+    },
+    {
+      "name": "Nguyễn Duyên",
+      "position": "ThS",
+      "major": "Da Liễu",
+      "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/bs-duyen12344-jpg_5b8d0e75_7b7c_4f05_9a32_3f6f960a5b0a.png",
+      "experience": "15",
+      "detail": "Gần 15 năm khám và điều trị các bệnh lí Da Liễu <br>Hỗ trợ tư vấn theo dõi, điều trị F0 tại nhà",
+      "id": 8
+    },
+    {
+      "name": "Đỗ Thị Dung",
+      "position": "BSNT",
+      "major": "Tai Mũi Họng",
+      "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_c55cf39a_e3e9_4ade_9bd0_98d982b71f5d.png",
+      "experience": "15",
+      "detail": "Bác sĩ nội trú <br>15 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "id": 9
+    },
+    {
+      "name": "Đào Trường Giang",
+      "position": "Ths",
+      "major": "Nhi",
+      "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/20210315_232616_373ae7ed_582c_4b52_b0ee_0f08e139e215.jpg",
+      "experience": "10",
+      "detail": "Gần 10 năm khám và điều trị các bệnh lý nhi khoa : Tiêu hóa, hô hấp, tim mạch, dinh dưỡng....",
+      "id": 10
+    },
+    {
+      "name": "Nguyễn Trung Việt",
+      "position": "BS",
+      "major": "Hô Hấp",
+      "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/bs-viet-111_14a7ae04_f908_4690_ab65_15ace14ac1f2.jpg",
+      "experience": "5",
+      "detail": "Bác sĩ Nguyễn Trung Việt tốt nghiệp Đại học Y Hà Nội, hiện có trên 5 năm công tác và làm việc tại khoa Tai mũi họng, bệnh viện TW Quân đội 108.",
+      "id": 11
+    },
+    {
+      "name": "Phạm Thị Ngọc Đào",
+      "position": "BS",
+      "major": "Nhi",
+      "work": "BÁC SĨ ƠI - PHÒNG KHÁM O2O",
+      "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/bs-ngoc-dao_f7b65780_401b_432c_b765_1ac86d6fe633.jpg",
+      "experience": "5",
+      "detail": "Bác sĩ  Phạm Thị Ngọc Đào có trên 5 năm kinh nghiệm khám và điều trị các bệnh lí nhi khoa, dinh dưỡng và tư vấn tiêm chủng. <br>Bác sĩ hiện đang là học viên CK1 tại Đại học Y dược Thành phố Hồ Chí Minh",
+      "id": 12
     }
+   
   ],
   "userupdate": [
     {
@@ -80,4 +146,14 @@
       "time": "15"
     }
   ]
+  ,
+  "information":{
+    "majors":["Tai Mũi Họng","Nội Tiết","Nhi","Mắt","Hô Hấp","Nội Tổng Hợp","Da Liễu"],
+     "positions":["PGS.TS","TS","ThS","BSNT","BS","BSCKI"]
+  }
+    
+     
+    
+  
+
 }

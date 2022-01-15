@@ -22,7 +22,7 @@ function getData(username) {
 server.post('/auth/register', (req, res) => {
   console.log('register endpoint called; request body:');
   console.log(req.body);
-  const { username, password } = req.body;
+  const { username, password, role, exp, major, work } = req.body;
 
   if (isAuthenticated({ username, password }) === true) {
     const status = 401;
@@ -46,7 +46,15 @@ server.post('/auth/register', (req, res) => {
     var last_item_id = data.users[data.users.length - 1].id;
 
     //Add new user
-    data.users.push({ id: last_item_id + 1, username: username, password: password }); //add some data
+    data.users.push({
+      id: last_item_id + 1,
+      username: username,
+      password: password,
+      role: role,
+      exp: exp,
+      work: work,
+      major: major,
+    }); //add some data
     var writeData = fs.writeFile('./users.json', JSON.stringify(data), (err, result) => {
       // WRITE
       if (err) {
