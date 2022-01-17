@@ -153,21 +153,24 @@
   }
   ,
   "questions":[{
-    "age":"43",
-    "gender":true,
-    "major":"Tai Mũi Họng",
-    "textarea":"Hello guy",
-    "image":"https://www.google.com.vn",
-    "time":1642393584837,
+    "age": "26",
+    "gender": false,
+    "major": "Da Liễu",
+    "textarea": "Dạ em chào bác sĩ, em năm nay 26 tuổi nhưng hay nổi mụn do nội tiết tố, y sĩ tại tiệm thuốc có tư vấn em sử dụng thuốc tránh thai và actinoin 200mg để đều hoà nội tiết trị mụn. Không biết khi uống thuốc tránh thai có ảnh hưởng đến sức khoẻ sinh sản không ạ? Do em từng bị xuất huyết buồn trứng phải phẫu thuật ạ. Em cảm ơn!",
+    "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/71fffdf2-7d6b-4db8-a6a6-cbf8fc7d5c28.jpg_ca3c86c2_36dc_4853_83ae_2b41a8ef93e6.jpg",
+    "time": 1642436134243,
+    "id": 1
+  }]
+  ,
+  "comments":[{
+    "listcomment":[{
+      
+      "iduser":1,
+      "content":"Nội dung khóa là khó đó",
+      "id":1
+    }],
     "id":1
-  },{
-    "age":"44",
-    "gender":false,
-    "major":"Nội khoa",
-    "textarea":"Hello Nội khoa",
-    "image":"https://www.google.com.vn",
-    "time":1642393585837,
-    "id":2
+    
   }]
   ,
   "timetable":[{
