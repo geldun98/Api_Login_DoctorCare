@@ -151,7 +151,22 @@
     "majors":["Tai Mũi Họng","Nội Tiết","Nhi","Mắt","Hô Hấp","Nội Tổng Hợp","Da Liễu"],
      "positions":["PGS.TS","TS","ThS","BSNT","BS","BSCKI"]
   }
-    
+  ,
+  "questions":[{
+    "age":"43",
+    "gender":true,
+    "major":"Tai Mũi Họng",
+    "textarea":"Hello guy",
+    "image":"https://www.google.com.vn",
+    "id":1
+  },{
+    "age":"44",
+    "gender":false,
+    "major":"Nội khoa",
+    "textarea":"Hello Nội khoa",
+    "image":"https://www.google.com.vn",
+    "id":2
+  }]
      
     
   
