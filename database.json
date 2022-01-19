@@ -202,6 +202,13 @@
 
   }
 
+  ],
+  "posts":[
+    {
+      "title":"Hello world",
+      "content":"<h1>Hello my name is Dũng</h1> <p>I want to see the world</p>",
+      "id":1
+    }
   ]
   
      
