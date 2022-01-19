@@ -8,6 +8,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_b6fdadb7_445d_4a6a_ac5c_0ad3c31cdd67.png",
       "experience": "25",
       "detail": "BS.PGS.TS <br>Bác sĩ nội trú <br>25 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "appointment":"30",
+      "vote":"5",
       "id": 1
     },
     {
@@ -18,6 +20,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/bs_6ea56145_10e3_4075_86d5_754430729407.png",
       "experience": "30",
       "detail": "30 năm kinh nghiệm trong lĩnh vực các bệnh nội tiết: <br>- Đái tháo đường và các biến chứng đái tháo đường <br>- Các bệnh lý tuyến giáp (cường giáp, suy giáp, ung thư giáp <br>- Các bệnh lý suy tuyến thượng thận, cách bệnh lý tuyến yên <br>- Mãn dục nam, mãn kinh ở nữ <br>- Suy giảm tình dục ở cả nam và nữ",
+      "appointment":"40",
+      "vote":"4",
       "id": 2
     },
     {
@@ -28,6 +32,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/12345_575ac987_c546_45df_9feb_b5a740a9e9b2.jpg",
       "experience": "10",
       "detail": "Gần 10 năm kinh nghiệm khám và điều trị bệnh lí Nhi Khoa.",
+      "appointment":"190",
+      "vote":"5",
       "id": 3
     },
     {
@@ -38,6 +44,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_4c819e0b_529f_4b7e_ae1d_f8a02a047294.png",
       "experience": "30",
       "detail": "30 năm kinh nghiệm thăm khám và điều trị chuyên khoa Mắt",
+      "appointment":"50",
+      "vote":"4",
       "id": 4
     },
     {
@@ -48,6 +56,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_99927c4b_2c70_4e6f_8048_56e4a91f8bee.png",
       "experience": "40",
       "detail": "Hơn 40 năm kinh nghiệm khám và điều trị các bệnh lí Nhi khoa",
+      "appointment":"35",
+      "vote":"5",
       "id": 5
     },
     {
@@ -58,6 +68,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_08c08a61_9e16_4967_9f35_b6feac20dab2.png",
       "experience": "10",
       "detail": "Khám và điều trị các bệnh lý nội khoa đường hô hấp trên và dưới <br>Chẩn đoán và điều trị bệnh lý đường hô hấp dưới: Viêm phổi, ung thư phổi Bệnh phổi tắc nghẽn mạn tính, hen phế quản, lao phổi màng phổi, ho kéo dài",
+      "appointment":"29",
+      "vote":"5",
       "id": 6
     },
     {
@@ -68,6 +80,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_8814e1ed_800e_416b_b14d_f1a64dc1b7c5.png",
       "experience": "5",
       "detail": "Khám và điều trị bệnh lý Nội khoa <br>Khám , tư vấn về điều trị, chăm sóc vết thương <br>Tư vấn về tiêm chủng <br>Tư vấn về điều trị F0 tại nhà",
+      "appointment":"74",
+      "vote":"5",
       "id": 7
     },
     {
@@ -78,6 +92,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/bs-duyen12344-jpg_5b8d0e75_7b7c_4f05_9a32_3f6f960a5b0a.png",
       "experience": "15",
       "detail": "Gần 15 năm khám và điều trị các bệnh lí Da Liễu <br>Hỗ trợ tư vấn theo dõi, điều trị F0 tại nhà",
+      "appointment":"60",
+      "vote":"5",
       "id": 8
     },
     {
@@ -88,6 +104,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/test_c55cf39a_e3e9_4ade_9bd0_98d982b71f5d.png",
       "experience": "15",
       "detail": "Bác sĩ nội trú <br>15 năm trong chuyên ngành Tai Mũi Họng <br>- Chữa các bệnh vùng Tai- Mũi - Hong: viêm tai, viêm mũi xoang, viêm họng, viêm loét họng, miệng, tăng tiết nước bọt vùng khoang miệng... bệnh lý các khối u vùng đầu mặt cổ <br>- Chuyên gia về trị liệu giọng nói cho những người làm các nghề liên quan đến giọng như phát thanh viên, ca sĩ, giáo viên... <br>- Các rối loạn giọng sau phẫu thuật <br>- Chuyên gia điều trị chóng mặt, rối loạn thăng bằng, ù tai <br>- Điều trị các đau mạn tính vùng sọ mặt, vùng lưỡi",
+      "appointment":"77",
+      "vote":"5",
       "id": 9
     },
     {
@@ -98,6 +116,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/20210315_232616_373ae7ed_582c_4b52_b0ee_0f08e139e215.jpg",
       "experience": "10",
       "detail": "Gần 10 năm khám và điều trị các bệnh lý nhi khoa : Tiêu hóa, hô hấp, tim mạch, dinh dưỡng....",
+      "appointment":"45",
+      "vote":"5",
       "id": 10
     },
     {
@@ -108,6 +128,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/bs-viet-111_14a7ae04_f908_4690_ab65_15ace14ac1f2.jpg",
       "experience": "5",
       "detail": "Bác sĩ Nguyễn Trung Việt tốt nghiệp Đại học Y Hà Nội, hiện có trên 5 năm công tác và làm việc tại khoa Tai mũi họng, bệnh viện TW Quân đội 108.",
+      "appointment":"45",
+      "vote":"4.5",
       "id": 11
     },
     {
@@ -118,6 +140,8 @@
       "image": "https://isofhcare-backup.s3-ap-southeast-1.amazonaws.com/images/bs-ngoc-dao_f7b65780_401b_432c_b765_1ac86d6fe633.jpg",
       "experience": "5",
       "detail": "Bác sĩ  Phạm Thị Ngọc Đào có trên 5 năm kinh nghiệm khám và điều trị các bệnh lí nhi khoa, dinh dưỡng và tư vấn tiêm chủng. <br>Bác sĩ hiện đang là học viên CK1 tại Đại học Y dược Thành phố Hồ Chí Minh",
+      "appointment":"88",
+      "vote":"5",
       "id": 12
     }
    
@@ -166,8 +190,8 @@
     "listcomment":[{
       
       "iduser":1,
-      "content":"Nội dung khóa là khó đó",
-      "id":1
+      "content":"Chào em, việc dùng thuốc tránh thai không ảnh hưởng đến sức khoẻ nếu được dùng đúng cách, đúng mục đích. Tình trạng mụn của em nên được khám bởi các bác sĩ da liễu. Hiện có rất nhiều sản phẩm tốt và hiệu quả. Em đặt lịch khám bác sĩ da liễu qua app đi, bác sĩ sẽ khám qua videocall và tư vấn cho em nhé."
+     
     }],
     "id":1
     
