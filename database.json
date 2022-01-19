@@ -152,10 +152,20 @@
       "name": "levietdung",
       "email": "geldun98@gmail.com",
       "dob": "14/01/2022",
-      "gender": "Male",
+      "gender": "Nam",
       "phone": "090909090",
       "address": "Vinh Phuc",
       "job": "coder"
+    },
+    {
+      "name": "nguyenxuanhieu",
+      "email": "xuanhieu@gmail.com",
+      "hospital": "Tuệ Tĩnh",
+      "major": "Hô hấp",
+      "degree": "Thạc Sĩ",
+      "exp": "10",
+      "time": "15",
+      "id": 2
     }
   ],
   "doctorupdate": [
