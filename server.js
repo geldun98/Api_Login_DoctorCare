@@ -63,7 +63,7 @@ server.post('/auth/register', (req, res) => {
         res.status(status).json({ status, message });
         return;
       } else {
-        res.status(200).json('sucess register');
+        res.status(200).json(`${last_item_id + 1}`);
       }
     });
   });
