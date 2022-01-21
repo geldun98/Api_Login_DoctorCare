@@ -200,7 +200,14 @@
     "listcomment":[{
       
       "iduser":1,
-      "content":"Chào em, việc dùng thuốc tránh thai không ảnh hưởng đến sức khoẻ nếu được dùng đúng cách, đúng mục đích. Tình trạng mụn của em nên được khám bởi các bác sĩ da liễu. Hiện có rất nhiều sản phẩm tốt và hiệu quả. Em đặt lịch khám bác sĩ da liễu qua app đi, bác sĩ sẽ khám qua videocall và tư vấn cho em nhé."
+      "content":"Chào em, việc dùng thuốc tránh thai không ảnh hưởng đến sức khoẻ nếu được dùng đúng cách, đúng mục đích. Tình trạng mụn của em nên được khám bởi các bác sĩ da liễu. Hiện có rất nhiều sản phẩm tốt và hiệu quả. Em đặt lịch khám bác sĩ da liễu qua app đi, bác sĩ sẽ khám qua videocall và tư vấn cho em nhé.",
+      "role":"doctor"
+     
+    },{
+      
+      "iduser":2,
+      "content":"Dạ vầng em cảm ơn bác sĩ nhiều",
+      "role":"user"
      
     }],
     "id":1
